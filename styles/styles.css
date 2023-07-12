@@ -350,7 +350,7 @@ a:hover {
   .card--cta {
     max-width: 100%;
   }
-  aside .card {
+  section .card {
     gap: 0;
   }
   .page-footer__grid {
